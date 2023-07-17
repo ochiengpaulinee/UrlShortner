@@ -1,5 +1,4 @@
 # UrlShortner
-TH
 This platform will enable you to shorten urls for differente purposes like:
 -To make it easier to share
 -To track clicks
